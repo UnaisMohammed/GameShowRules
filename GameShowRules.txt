@@ -1,0 +1,10 @@
+The rules of the game are:
+
+You must answer 15 multiple-choice questions correctly in a row to win the jackpot. 
+
+You may quit at any time and keep the earnings. For each question, you will be 
+shown the question and four possible answers in advance before deciding whether to play on or not.
+ 
+If you do decide to offer an answer, it must be correct to stay in the game.
+
+If at any stage, you answer incorrectly, you will have to leave the game.
